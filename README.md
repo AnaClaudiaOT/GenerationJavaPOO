@@ -1,2 +1,2 @@
 # JavaPOO
-Exercícios de Orientação a Objeto em Java
+Exercícios de Lógica de Programação utilizando Java realizados durante o Bootcamp Generation.
